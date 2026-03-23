@@ -35,3 +35,7 @@ All work in this repository is for authorized lab, educational, and defensive se
 - Improve Bash scripting for security tasks
 - Build repeatable network scanning workflows
 - Grow into a professional entry-level cybersecurity role
+=======
+# cybersecurity-portfolio
+Detailed documentation of my growth and added skills for cybersecurity 
+
